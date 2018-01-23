@@ -8,7 +8,7 @@ adr new -s 2 -s 3 Third Record
 docs/0004-third-record.md
 head -8 docs/0002-first-record.md
 # *[short title of solved problem and solution]*
- 
+
 | Date | Status |
 | -- | -- |
 | 1992-01-12 | Accepted |
@@ -17,7 +17,7 @@ head -8 docs/0002-first-record.md
 **User Story:** *[ticket/issue-number]* <!-- optional -->
 head -8 docs/0003-second-record.md
 # *[short title of solved problem and solution]*
- 
+
 | Date | Status |
 | -- | -- |
 | 1992-01-12 | Accepted |
@@ -26,7 +26,7 @@ head -8 docs/0003-second-record.md
 **User Story:** *[ticket/issue-number]* <!-- optional -->
 head -12 docs/0004-third-record.md
 # *[short title of solved problem and solution]*
- 
+
 | Date | Status |
 | -- | -- |
 | 1992-01-12 | Accepted |

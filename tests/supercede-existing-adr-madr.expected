@@ -6,7 +6,7 @@ adr new -s 2 Second Record
 docs/0003-second-record.md
 head -10 docs/0002-first-record.md
 # *[short title of solved problem and solution]*
- 
+
 | Date | Status |
 | -- | -- |
 | 1992-01-12 | Accepted |
@@ -17,7 +17,7 @@ head -10 docs/0002-first-record.md
 *[context and problem statement]*
 head -12 docs/0003-second-record.md
 # *[short title of solved problem and solution]*
- 
+
 | Date | Status |
 | -- | -- |
 | 1992-01-12 | Accepted |

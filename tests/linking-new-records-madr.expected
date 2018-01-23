@@ -8,7 +8,7 @@ adr new -l "2:Amends:Amended by" -l "3:Clarifies:Clarified by" Third Record
 docs/0004-third-record.md
 head -12 docs/0002-first-record.md
 # *[short title of solved problem and solution]*
- 
+
 | Date | Status |
 | -- | -- |
 | 1992-01-12 | Accepted |
@@ -21,7 +21,7 @@ head -12 docs/0002-first-record.md
 
 head -12 docs/0003-second-record.md
 # *[short title of solved problem and solution]*
- 
+
 | Date | Status |
 | -- | -- |
 | 1992-01-12 | Accepted |
@@ -34,7 +34,7 @@ head -12 docs/0003-second-record.md
 
 head -14 docs/0004-third-record.md
 # *[short title of solved problem and solution]*
- 
+
 | Date | Status |
 | -- | -- |
 | 1992-01-12 | Accepted |

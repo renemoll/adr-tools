@@ -13,7 +13,7 @@ ls docs
 0004-third-decision.md
 head -8 docs/0003-second-decision.md
 # *[short title of solved problem and solution]*
- 
+
 | Date | Status |
 | -- | -- |
 | 1992-01-12 | Accepted |
@@ -22,7 +22,7 @@ head -8 docs/0003-second-decision.md
 
 head -8 docs/0004-third-decision.md
 # *[short title of solved problem and solution]*
- 
+
 | Date | Status |
 | -- | -- |
 | 1992-01-12 | Accepted |
