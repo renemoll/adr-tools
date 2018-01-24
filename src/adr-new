@@ -127,8 +127,7 @@ case $type in
     ;;
 # Date and Status are not contained in template, but should be added when ADR is created
     madr)
-    cat $template | sed "2s/^//" | sed $'2s/^.*/\\\n| Date | Status |\\\n| -- | -- |\\\n| '$date' | Accepted |\\\n/' \
-    > $dstfile
+    cat $template | sed "2s/^//" | sed $"2s/^.*/\\\n| Date | Status |\\\n| -- | -- |\\\n| '$date' | Accepted |\\\n/" > $dstfile
     ;;
 esac
 
